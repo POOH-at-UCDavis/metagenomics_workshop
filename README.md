@@ -1,9 +1,8 @@
 # POOH 2023 Metagenomics Workshop
 This repository holds useful information for the workshop. This page also includes additional scrips useful for working through workshop materials on your own.
-
-<div style="text-align:center;">
-    <a href="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-1536x1136.png"><img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-1536x1136.png"  width="600" height="400"></a>
-</div>
+<p align="center">
+  <img src="https://github.com/POOH-at-UCDavis/metagenomics_workshop/blob/429815b55d079b3e3ed53f5c0e15530ea52d5695/images/metagenomics_icon.png" width="600" height="400">
+</p>
 
 ## Code of Conduct
 Please abide by The Carpentries Code of Conduct for this workshop. 
