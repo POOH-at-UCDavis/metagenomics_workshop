@@ -2,6 +2,10 @@
 This repository holds information regarding the Data Carpentry's metagenomics workshop. This page also includes additional scrips useful for working through the workshop.
 
 ## Code of Conduct
+Please abide by The Carpentries Code of Conduct for this workshop. 
+This workshop is a community building initiative for metagenomics researchers on campus, and we ask that you support our community by being respectful to other learners. In particular, note that this is not an intellectual contest, we're all here to learn (including our instructional team!), and everyone has something valuble to contribute to our research community.
+
+For details, see the [Code of Conduct Detailed View].(https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#the-carpentries-code-of-conduct)
 
 ## Schedule
 We will be working through the Carpenteries Metagenomics Workshop; all the materials can be found on their [main page](https://carpentries-lab.github.io/metagenomics-workshop/)
@@ -34,7 +38,7 @@ We will be working through the Carpenteries Metagenomics Workshop; all the mater
 
 
 ## Where to go
-
+The location is the [Shield’s library Datalab classroom (room 360)](https://datalab.ucdavis.edu/directions/). We recommend [parking in lot 5](https://goo.gl/maps/16CK2gMQizBsM6an8)
 ## Instructional Team
 
 ## Lesson Content - What are The Carpentries?
