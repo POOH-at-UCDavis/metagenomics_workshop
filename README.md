@@ -2,7 +2,7 @@
 This repository holds useful information for the workshop. This page also includes additional scrips useful for working through workshop materials on your own.
 
 <div style="text-align:center;">
-    <a href="https://innovativegenomics.org/glossary/metagenomics/"><img src="https://innovativegenomics.org/glossary/metagenomics/"  width="600" height="400"></a>
+    <a href="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-1536x1136.png"><img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-1536x1136.png"  width="600" height="400"></a>
 </div>
 
 ## Code of Conduct
