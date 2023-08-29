@@ -1,11 +1,15 @@
-# Metagenomics workshop
-This repository holds information regarding the Data Carpentry's metagenomics workshop. This page also includes additional scrips useful for working through the workshop.
+# POOH 2023 Metagenomics Workshop
+This repository holds useful information for the workshop. This page also includes additional scrips useful for working through workshop materials on your own.
+
+<div style="text-align:center;">
+    <a href="https://innovativegenomics.org/glossary/metagenomics/"><img src="https://innovativegenomics.org/glossary/metagenomics/"  width="600" height="400"></a>
+</div>
 
 ## Code of Conduct
 Please abide by The Carpentries Code of Conduct for this workshop. 
 This workshop is a community building initiative for metagenomics researchers on campus, and we ask that you support our community by being respectful to other learners. In particular, note that this is not an intellectual contest, we're all here to learn (including our instructional team!), and everyone has something valuble to contribute to our research community.
 
-For details, see the [Code of Conduct Detailed View].(https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#the-carpentries-code-of-conduct)
+For details, see the [Code of Conduct Detailed View.](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#the-carpentries-code-of-conduct)
 
 # Schedule
 We will be working through the Carpenteries Metagenomics Workshop; all the materials can be found on their [main page](https://carpentries-lab.github.io/metagenomics-workshop/)
