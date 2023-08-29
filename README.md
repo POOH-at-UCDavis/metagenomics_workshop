@@ -42,9 +42,17 @@ We will be working through the Carpenteries Metagenomics Workshop; all the mater
 
 ## Where to go
 The location is the [Shield’s library Datalab classroom (room 360)](https://datalab.ucdavis.edu/directions/). We recommend [parking in lot 5](https://goo.gl/maps/16CK2gMQizBsM6an8)
-## Instructional Team
 
-## Lesson Content - What are The Carpentries?
+
+## Instructional Team
+Dino Sbardellati
+Cory Schlesener
+Hannah Houts
+Bryshal Moore
+Gina Vazques
+Hugo Monteiro
+Titus Brown
+
 
 ## Onboarding - Before you arive
 please complete this content before we meet on Tuedsay
