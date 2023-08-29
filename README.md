@@ -7,7 +7,7 @@ This workshop is a community building initiative for metagenomics researchers on
 
 For details, see the [Code of Conduct Detailed View].(https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#the-carpentries-code-of-conduct)
 
-## Schedule
+# Schedule
 We will be working through the Carpenteries Metagenomics Workshop; all the materials can be found on their [main page](https://carpentries-lab.github.io/metagenomics-workshop/)
 
 ### Day 1
