@@ -42,13 +42,27 @@ The location is the [Shield’s library Datalab classroom (room 360)](https://da
 
 
 ## Instructional Team
-Dino Sbardellati
-Cory Schlesener
-Hannah Houts
-Bryshal Moore
-Gina Vazques
-Hugo Monteiro
-Titus Brown
+- Dino Sbardellati
+  - PhD Candidate in Vannette Lab
+  - Metagenomics, Microbial Ecology, Viral Ecology, Bees, R, Unix
+- Cory Schlesener
+  - PhD Candidate in Weimer Lab
+  - Metagenomics, Microbial Ecology, Cows, Python, Unix
+- Hannah Houts
+  - PhD Candidate in DIB Lab
+  - Metagenomics, Viral Ecology, Microbial Ecology, Human Gut, R, Unix, VS Code
+- Bryshal Moore
+  - PhD Candidate in DIB Lab
+  - Metagenomics, 16s, Microbial Ecology, Human Gut, R, Unix
+- Gina Vazquez
+  - PhD Student in DIB Lab
+  - Metagenomics, Microbial Ecology, Biosynthetic gene clusters, R, Unix, 
+- Hugo F. Monteiro
+  - Postdoc at the School of Veterinary Medicine
+  - Gut Fermentation, Microbial Ecology, Amplicon, Metagenomics, Metatranscriptomics, Metabolomics, R, Unix, Python, SAS, AI & ML
+- Titus Brown
+  - Professor in Population Health & Reproduction; Datalab Director for Community Engagement; PI of DIB Lab
+  - 'omics methods development, microbial ecology, strain diversity, python, unix, 
 
 
 ## Onboarding - Before you arive
