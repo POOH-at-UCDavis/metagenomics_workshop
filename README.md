@@ -20,7 +20,7 @@ We will be working through the Carpenteries Metagenomics Workshop; all the mater
 |**Day 1**|                                                                                                                                                                 |           |
 | 10:00 AM | Welcome                                                                                                                                                        | Hannah    |
 | 10:10 AM | [Project Organization and Management](https://carpentries-lab.github.io/metagenomics-organization/)                                                            | Cory      |
-| 10:50 AM | Intro to cluster and ssh                                                                                                                                       | Cory      |
+| 10:50 AM | [Intro to cluster and ssh](https://hackmd.io/@hehouts/HJevyWpa2)                                                                                               | Cory      |
 | 11:00 AM | [Introduction to the Command Line](https://carpentries-incubator.github.io/shell-metagenomics/) Part 1-2                                                       | Dino      |
 | 12:00 PM | Lunch Break                                                                                                                                                    | -         |
 | 1:00 PM  | [Introduction to the Command Line](https://carpentries-incubator.github.io/shell-metagenomics/) Part 3                                                         | Dino      |
