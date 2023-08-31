@@ -27,7 +27,7 @@ We will be working through the Carpenteries Metagenomics Workshop; all the mater
 | 3:00 PM  | [Introduction to the Command Line](https://carpentries-incubator.github.io/shell-metagenomics/) Part 4-6                                                       | Bry       |
 | 4:00 PM  | [Introduction to R](https://carpentries-incubator.github.io/introduction-to-R-for-metagenomics/)                                                               | Hugo      |
 |**Day 2** |                                                                                                                                                                |           |
-| 10:00 AM | Intro to Conda, scp, and srun                                                                                                                                  | Hannah    |
+| 10:00 AM | [Intro to srun, tmux, and conda](https://hackmd.io/dvBF7MAoR5Cj2L-ivpamLg?view#srun)                                                                                                                                  | Hannah    |
 | 10:15 AM | [Starting a Metagenomics Project](https://carpentries-lab.github.io/metagenomics-analysis/01-background-metadata/index.html) & [Assessing Read Quality](https://carpentries-lab.github.io/metagenomics-analysis/02-assessing-read-quality/index.html) | Bry       |
 | 11:15 AM | [Trimming and Filtering](https://carpentries-lab.github.io/metagenomics-analysis/03-trimming-filtering/index.html)                                             | Dino      |
 | 12:00 PM | Lunch Break                                                                                                                                                    | -         |
